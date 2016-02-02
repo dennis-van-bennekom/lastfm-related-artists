@@ -1,6 +1,6 @@
-# lastfm
+# LastFM Related Artists
 
-> Find related artists.
+> Find related artists. (Build with Vue.JS and the last.fm API)
 
 ## Build Setup
 
