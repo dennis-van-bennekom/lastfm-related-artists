@@ -20,7 +20,7 @@ const actions = {
 
   searchArtist ({dispatch}, artist) {
     Vue.http({
-      url: 'http://ws.audioscrobbler.com/2.0/',
+      url: 'https://ws.audioscrobbler.com/2.0/',
       method: 'GET',
       params: {
         api_key: '9112859bf77f54259252dc9bc48a8cb9',
